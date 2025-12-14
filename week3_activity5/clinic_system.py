@@ -106,4 +106,4 @@ if __name__ == "__main__":
     print("\nTotal Ophthalmology Doctors:",
           clinic.count_ophthalmology_doctors())
 
-    clinic.close()
+    clinic.close() 
