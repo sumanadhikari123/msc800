@@ -107,5 +107,3 @@ if __name__ == "__main__":
           clinic.count_ophthalmology_doctors())
 
     clinic.close()
-    
-    #testing 
