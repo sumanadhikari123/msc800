@@ -1,3 +1,6 @@
+
+# Yes, this is called polymorphism. Different objects respond differently to the same method call based on their class type. It is used to write flexible, reusable code and allows the same interface to represent different behaviors.
+
 # Base Class
 
 class Animal:
